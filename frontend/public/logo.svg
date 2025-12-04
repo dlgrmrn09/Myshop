@@ -1,0 +1,14 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Дэлхийн бөмбөрцөг -->
+    <circle cx="100" cy="100" r="70" fill="#3B82F6" opacity="0.8"/>
+    <path d="M30,100 Q100,30 170,100 Q100,170 30,100" fill="none" stroke="white" stroke-width="2"/>
+    <path d="M100,30 Q170,100 100,170 Q30,100 100,30" fill="none" stroke="white" stroke-width="2"/>
+    
+    <!-- Сагс -->
+    <path d="M85,85 L115,85 L120,115 L80,115 Z" fill="white" stroke="#1D4ED8" stroke-width="2"/>
+    <path d="M90,80 Q100,75 110,80" stroke="white" stroke-width="3" fill="none"/>
+    
+    <!-- Бүтээгдэхүүн -->
+    <circle cx="95" cy="95" r="5" fill="#F59E0B"/>
+    <circle cx="105" cy="95" r="5" fill="#EF4444"/>
+</svg>
